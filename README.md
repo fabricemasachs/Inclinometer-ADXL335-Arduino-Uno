@@ -1,5 +1,5 @@
 # Inclinometer-ADXL335-Arduino-Uno
-Arduino sketch to calculate inclination using a 3-axis accelerometer ADXL335 and Arduino Uno
+Arduino sketch to calculate the pitch and roll angles using a 3-axis accelerometer ADXL335 and Arduino Uno.
 
 ![layout](https://github.com/fabricemasachs/Inclinometer-ADXL335-Arduino-Uno/blob/master/Inclinometer_ADXL335_Arduino_Uno_bb.png)
 
