@@ -1,5 +1,7 @@
 # Inclinometer-ADXL335-Arduino-Uno
 
+![layout]()
+
 ## Licence
 Inclinometer ADXL335 Arduino Uno is available under the MIT License.
 
