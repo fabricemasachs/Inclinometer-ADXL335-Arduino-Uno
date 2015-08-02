@@ -1,6 +1,6 @@
 # Inclinometer-ADXL335-Arduino-Uno
 
-![layout]()
+![layout](https://github.com/fabricemasachs/Inclinometer-ADXL335-Arduino-Uno/blob/master/Inclinometer_ADXL335_Arduino_Uno_bb.png)
 
 ## Licence
 Inclinometer ADXL335 Arduino Uno is available under the MIT License.
