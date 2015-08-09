@@ -1,5 +1,5 @@
 //
-// Sketch for the Sketch for the Inclinometer ADXL335 Arduino Uno 
+// Sketch for the Inclinometer ADXL335 Arduino Uno 
 // Copyright (c) 2015 Fabrice Masachs, OH6FKO
 // Released under the MIT License
 //
